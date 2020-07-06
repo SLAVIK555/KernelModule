@@ -52,3 +52,4 @@ slava@slava-VirtualBox:~/KernelModule$
 slava@slava-VirtualBox:~/KernelModule$ 
 slava@slava-VirtualBox:~/KernelModule$ lsmod | grep "example"
 slava@slava-VirtualBox:~/KernelModule$ 
+
